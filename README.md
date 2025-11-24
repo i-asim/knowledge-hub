@@ -18,8 +18,8 @@ Follow the steps below to get started after cloning.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/i-asim/knowledge-hub.git
+   cd knowledge-hub
 
 Install dependencies
 
@@ -47,7 +47,7 @@ Start the dev server:
 
 npm run dev
 
-Visit http://localhost:3000 in your browser.
+Visit http://localhost:3000 or https://localhost:8080 in your browser.
 
 📤 Deployment
 
