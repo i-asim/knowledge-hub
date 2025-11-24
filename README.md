@@ -62,7 +62,7 @@ Add environment variables in the Vercel dashboard.
 Deploy — Vercel will handle builds automatically.
 
 📂 Project Structure
-
+<pre>
 .
 ├── .next/              # Next.js build output (ignored)
 ├── supabase/           # Supabase migrations & config
@@ -72,6 +72,7 @@ Deploy — Vercel will handle builds automatically.
 ├── public/             # Static assets
 ├── .env.local          # Local environment variables (ignored)
 └── README.md           # This file
+</pre>
 
 🛡️ Notes
 
