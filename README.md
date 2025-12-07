@@ -1,4 +1,3 @@
-Perfect — here’s the README.md in clean Markdown format, ready to drop into your repo:
 
 # 🚀 Project Setup Guide
 
@@ -19,8 +18,8 @@ Follow the steps below to get started after cloning.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/i-asim/knowledge-hub.git
+   cd knowledge-hub
 
 Install dependencies
 
@@ -48,7 +47,7 @@ Start the dev server:
 
 npm run dev
 
-Visit http://localhost:3000 in your browser.
+Visit http://localhost:3000 or https://localhost:8080 in your browser.
 
 📤 Deployment
 
@@ -63,7 +62,7 @@ Add environment variables in the Vercel dashboard.
 Deploy — Vercel will handle builds automatically.
 
 📂 Project Structure
-
+<pre>
 .
 ├── .next/              # Next.js build output (ignored)
 ├── supabase/           # Supabase migrations & config
@@ -73,6 +72,7 @@ Deploy — Vercel will handle builds automatically.
 ├── public/             # Static assets
 ├── .env.local          # Local environment variables (ignored)
 └── README.md           # This file
+</pre>
 
 🛡️ Notes
 
@@ -103,6 +103,4 @@ This project is licensed under MIT. See LICENSE for details.
 
 ---
 
-This version is **fully Markdown‑formatted** and ready to be dropped into your repo as `README.md`.  
 
-👉 Do you want me to also prepare a **short “Quick Start” README.md** (just 10–12 lines) for demo repos, so cloners don’t have to scroll through a long doc?
